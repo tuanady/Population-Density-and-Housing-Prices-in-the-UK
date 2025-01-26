@@ -1,0 +1,89 @@
+"Population and migration > Population > Estimates > Local authority > Population estimates by local authority and year"
+"Population estimates by local authority and year"
+
+Filters:
+Age: All ages
+Sex: Persons
+
+"","","","","Mid-year 2023 ","Mid-year 2022 ","Mid-year 2021 ","Mid-year 2020 ","Mid-year 2019 ","Mid-year 2018 ","Mid-year 2017 ","Mid-year 2016 ","Mid-year 2015 ","Mid-year 2014 ","Mid-year 2013 "
+"United Kingdom ","","","",68265209,67603461,66983488,66744067,66630707,66288927,65965992,65607141,65088058,64619493,64138721
+"United Kingdom ","Great Britain ","","",66344827,65692918,65078924,64843544,64732188,64402668,64090814,63741099,63233115,62776307,62307044
+"","Great Britain ","England ","",57690323,57112542,56554891,56325961,56230056,55924528,55619548,55289034,54808676,54370319,53918686
+"","","Wales ","",3164404,3132676,3105633,3104483,3087732,3083840,3081366,3077165,3072739,3073788,3071058
+"","","Wales ","Isle of Anglesey ",69291,69070,68937,68794,68278,68539,68617,68826,69415,69761,69880
+"","","","Gwynedd ",119173,117997,117072,118180,117584,118129,118881,118958,119632,119796,120403
+"","","","Conwy ",114410,114303,114788,114651,114196,114387,114855,115391,115380,115700,115313
+"","","","Denbighshire ",97156,96602,96047,95558,94766,94596,94597,94723,94691,94670,94378
+"","","","Flintshire ",155812,155334,155045,155004,154592,154587,154587,154166,153688,153439,152906
+"","","","Wrexham ",136149,135389,135152,135980,135899,136244,135619,135354,135565,135983,135861
+"","","","Powys ",134439,133874,133521,132199,131556,131967,132460,132531,132945,132809,132719
+"","","","Ceredigion ",73050,71873,70676,71421,70639,71291,72220,72900,73724,75197,76087
+"","","","Pembrokeshire ",125006,124365,123633,122572,121432,121194,121382,121438,121721,122148,122302
+"","","","Carmarthenshire ",190083,189148,188172,187391,186125,185444,184984,184985,184404,184349,184252
+"","","","Swansea ",246742,242039,237897,238992,238707,239184,239266,239300,239354,239228,239237
+"","","","Neath Port Talbot ",142898,142204,141934,142308,141385,141342,141022,141000,139704,139439,139093
+"","","","Bridgend ",146743,146135,145738,145434,144500,143583,143355,142887,142177,141333,140579
+"","","","Vale of Glamorgan ",134733,133619,132491,131224,129802,129165,128377,127082,126261,126714,126458
+"","","","Cardiff ",383536,371104,359824,360287,357137,355125,354348,352982,351600,350949,349982
+"","","","Rhondda Cynon Taf ",241178,239235,237545,238039,237574,236685,236357,235567,235233,235284,235145
+"","","","Merthyr Tydfil ",58593,58881,58869,59194,59255,59349,59337,59247,58922,58859,58791
+"","","","Caerphilly ",176437,176131,175999,176805,176735,177277,177610,178013,178269,178513,178236
+"","","","Blaenau Gwent ",67356,66960,66989,67219,67382,67566,67829,68135,68395,68737,69186
+"","","","Torfaen ",93419,92863,92454,92337,91685,91130,90638,90730,90844,90866,90842
+"","","","Monmouthshire ",94572,93985,93163,92456,91730,91834,91791,92024,91867,91864,91822
+"","","","Newport ",163628,161565,159687,158438,156773,155222,153234,150926,148948,148150,147586
+"","","Scotland ","Scotland ",5490100,5447700,5418400,5413100,5414400,5394300,5389900,5374900,5351700,5332200,5317300
+"","Northern Ireland ","Northern Ireland ","Northern Ireland ",1920382,1910543,1904564,1900523,1898519,1886259,1875178,1866042,1854943,1843186,1831677
+
+
+
+Footnotes:
+"Area","Local authorities in Wales, English regions and UK countries "
+"Year","Estimates relate to 30 June of each year.
+                "
+Metadata:
+"General description","This dataset provides population estimates for the local authorities in Wales, the English regions and the UK countries for the period from 1991 onwards by sex and single year of age, together with some aggregated age groups.
+
+It should be noted that for mid-2020 there are some definitional changes (particularly affecting the migration components) compared with mid-2019 population estimates data and it is advised users read the Quality and Methodology Information section on the Office for National Statistics website.
+
+For Wales, England, and Northern Ireland, the mid-2021 population estimates are the first population estimates to be based on the 2021 censuses for these countries. For Scotland, the census was moved to 2022. The mid-2022 population estimates are the first population estimates to be based on the 2022 Census for Scotland. 
+
+Internal migration estimates for mid-2023 have been produced using a different method to previous years, following a change to the variables available in the Higher Education Statistics Agency (HESA) data. 
+
+This material is Crown Copyright and may be re-used (not including logos) free of charge in any format or medium, under the terms of the Open Government Licence.
+"
+"Data collection and calculation","See weblinks"
+"Frequency of publication","Annual"
+"Data reference periods","Data are produced and reported annually and relate to the 30 June of each year from 1991 onwards."
+"Users, uses and context","The data presented here are used by central government departments and local authorities for a range of purposes including planning and monitoring of services and as denominators for the calculation of various rates and indicators."
+"Rounding applied","Data are provided on an unrounded basis although the Office for National Statistics advises that any results presented from these data are rounded to the nearest 100 where practical."
+"Revisions information","The data presented here reflect changes made to population estimates from 2001 to 2010 in re-basing the data to be consistent with the results of Census 2011 (see weblinks).
+
+The data for Scotland from 2001 to 2010 were revised on 18 March 2022 to correct an error in the age distribution over this period (see weblinks). 
+
+This data set was revised for 2012 to 2014 on 3 May 2016 to correct an error of the age distribution in the council areas of Scotland. 
+
+Mid-2012 to mid-2016 subnational population estimates for Wales and England were revised on the 22 March 2018, following methodological improvements (see weblinks).
+
+On 23 November 2023, the data set from 2012 to 2020 for Wales and England were rebased to be consistent with the results of Census 2021. Northern Ireland published rebased 2012 to 2020 data on 29 June 2023.  Scotland published rebased 2012 to 2020 data on 9 July 2024.
+
+On 15 July 2024 estimates for mid-2022 were revised by the ONS to account for updated estimates of international migration for Wales and England.
+
+Internal migration estimates for mid-2023 have been produced using a different method to previous years, following a change to the variables available in the Higher Education Statistics Agency (HESA) data. "
+"Title","Mid-year population estimates (1991 onwards), by Welsh local authorities, English regions and UK countries, by single year of age and sex"
+"Last update","July 2024"
+"Next update","Summer 2025 (provisional)"
+"Publishing organisation","Welsh Government"
+"Source 1","Mid-year population estimates, Office for National Statistics"
+"Source 2","No drop down value selected"
+"Contact email","stats.popcensus@gov.wales"
+"Designation","National Statistics"
+"Lowest level of geographical disaggregation","Local authorities"
+"Geographical coverage","United Kingdom"
+"Languages covered","English and Welsh"
+"Data licensing","You may use and re-use this data free of charge in any format or medium, under the terms of the Open Government License - see http://www.nationalarchives.gov.uk/doc/open-government-licence"
+"Statistical quality","See weblinks."
+"Weblinks","https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualmidyearpopulationestimates/latest
+https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/methodologies/midyearpopulationestimatesqmi
+https://www.nrscotland.gov.uk/statistics-and-data/statistics/about-our-statistics/revisions-and-corrections"
+"Keywords","Population; UK population; Welsh population; Mid-year population estimates;"
